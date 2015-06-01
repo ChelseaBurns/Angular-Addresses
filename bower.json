@@ -1,0 +1,20 @@
+{
+  "name": "Angular-Addresses",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ChelseaBurns/Angular-Addresses",
+  "authors": [
+    "Chelsea Burns <co.designux@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0"
+  }
+}
